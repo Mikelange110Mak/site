@@ -1,0 +1,16 @@
+.d1{
+   font-size: 60px;
+   color:rgba(134, 36, 214, 0.671);
+}
+.d2{
+   margin: 50px 5px;
+
+}
+.d2__d2{
+   border: 2px solid rgb(41, 99, 91);
+   padding: 8px;
+}
+.d2__d2 p{
+   font-size: 21px;
+   color: rgb(199, 209, 240);
+}
